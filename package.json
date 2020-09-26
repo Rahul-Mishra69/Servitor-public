@@ -1,0 +1,25 @@
+{
+  "name": "servitor-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Mishra69/Servitor-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Rahul-Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Mishra69/Servitor-bot/issues"
+  },
+  "homepage": "https://github.com/Rahul-Mishra69/Servitor-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
